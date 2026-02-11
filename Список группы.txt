@@ -1,0 +1,15 @@
+1	DENG	HAOWEN	(дщм	уюнбщмэ)	10
+2	TONG	WEIQI	(рсм	бщижх)	8
+3	LI	JIE	(кх	жге)	10
+4	SONG	ZIXU	(ясм	жгшячи)	10
+5	LIU	JIAHAO	(кч	жгъуюн)	9
+6	WANG	ZISHENG	(бюм	жгшьщм)	10
+7	CHE	XUAN	(вщ	ячюмэ)	9
+8	WANG	XINGHUA	(бюм	яхмусю)	10
+9	WANG	YUBO	(бюм	чиан)	8
+10	ZHAO	KUNPENG	(вфюн	йсмэощм)	9
+11	XU	JIAMING	(ячи	жгълхм)	10
+12	ZONG	KERUN	(жгсм	йщфсмэ)	0
+13	QU	ZHIQIANG	(жчи	вфхжъм)	10
+14	FENG	XUEYING	(тщм	ячщхм)	8
+15	JIANG	CHAOPING	(жгъм	вюнохм)	8
